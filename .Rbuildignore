@@ -12,3 +12,8 @@ README\.md
 ^docs$
 ^pkgdown$
 ^__pycache__$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
